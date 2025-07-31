@@ -1,0 +1,10 @@
+.header{
+    background: var(--secondary-bg);
+    padding: 0.2rem;
+    text-align: center;
+}
+.header nav {
+   display: flex;
+    justify-content: space-evenly;
+    padding: 0.5rem;
+}
